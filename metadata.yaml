@@ -1,5 +1,8 @@
 _repo: La-sposa-di-Menecle-Comedia-in-un-prologo-e-tre-atti-con-note_60543
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60543-h/images/cover.jpg
 creator:
   author:
     agent_name: Cavallotti, Felice
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Felice_Cavallotti
     - https://it.wikipedia.org/wiki/Felice_Cavallotti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60543#La-sposa-di-Menecle-Comedia-in-un-prologo-e-tre-atti-con-note
 gutenberg_issued: '2019-10-21'
 gutenberg_type: Text
 identifiers:
